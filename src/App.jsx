@@ -20,7 +20,7 @@ function App() {
     <main className="bg-[#F0F0F0] min-h-svh">
       <header className="flex justify-between w-full md:w-5/6 p-5 mx-auto">
         <div className="flex justify-center items-center space-x-2">
-          <img src="logo.jpg" alt="logo" className="w-10 h-10 rounded-full" />
+          <img src="images/logo.jpg" alt="logo" className="w-10 h-10 rounded-full" />
           <h1 className="text-xl md:text-2xl font-bold font-mono">Percy Verence </h1>
         </div>
         <button className="rounded-md bg-[#202020] hover:bg-[#443e3e] text-white px-8 py-3">
@@ -31,7 +31,7 @@ function App() {
       <section className="flex flex-col items-center justify-center space-y-4 mt-8 pb-4">
         <div className="w-5/6 md:w-1/3">
           <img
-            src="img.jpg"
+            src="images/img.jpg"
             alt="image-of-percy-verence"
             className="h-60 w-full rounded-md"
           />
@@ -68,7 +68,7 @@ function App() {
 
         <div className="flex flex-col space-y-4 w-5/6 md:w-2/3 border-2 border-[#E3E3E3] rounded-md px-5 py-3 ">
           <div className="flex items-center space-x-2 ">
-            <img src="logo.jpg" alt="logo" className="w-10 h-10 rounded-full" />{" "}
+            <img src="images/logo.jpg" alt="logo" className="w-10 h-10 rounded-full" />{" "}
             <h3 className="text-xl font-bold font-mono tracking-wide">
               CONTRACT ADDRESS
             </h3>
