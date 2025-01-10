@@ -17,7 +17,7 @@ function App() {
     setTimeout(() => setCopied(false), 2000);
   };
   return (
-    <main className="bg-[#F0F0F0] min-h-svh">
+    <main className="bg-[#F0F0F0] min-h-svh opacity-0">
       <header className="flex justify-between w-full md:w-5/6 p-5 mx-auto">
         <div className="flex justify-center items-center space-x-2">
           <img src="images/logo.jpg" alt="logo" className="w-10 h-10 rounded-full" />
