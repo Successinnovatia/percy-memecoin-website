@@ -1,1 +1,1 @@
-# Memecoin website showing info about a memecoin
+# Simple Landing page for a Memecoin Website
